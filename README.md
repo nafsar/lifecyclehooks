@@ -1,4 +1,5 @@
-# Life
+# LifeCycle Hooks
+A component in Angular has a lifecycle that is managed from start to end. Angular controls the data rendering creation for components and its children. The Lifecycle Hooks provides a complete ability to act on rendering phases as they occur.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.2.
 
